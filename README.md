@@ -1,2 +1,2 @@
 # bioinfo_pv2026
-versione aggiornata della repo master pavia
+versione aggiornata della repo master Pavia
